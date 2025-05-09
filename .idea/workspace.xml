@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2e8240d-8304-4b78-8a6e-d6fde4048bc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T162Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/BaklavaDilimiYatayYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/BaklavaDilimiYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/DoWhileSayiTahminOyunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/EmojiOrnegi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/P02_stringManupulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/P04_stringManupulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/SayiTahminOyunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/UcgenYazdirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/YildizUcgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04/gmailKontrol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lazKorsan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lazKorsan/T162Practice.git",
+    "accountId": "0881f5a3-89cc-40ba-85a5-2abbe4eb6b3e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -62,12 +58,12 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "editor.preferences.appearance"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BaklavaDilimiYatayYazdir">
+  <component name="RunManager" selected="Application.SayiTahminOyunu">
     <configuration name="BaklavaDilimiYatayYazdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04.BaklavaDilimiYatayYazdir" />
       <module name="T162Practice" />
@@ -94,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YildizUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.YildizUcgen" />
+    <configuration name="SayiTahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.SayiTahminOyunu" />
       <module name="T162Practice" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="karakterbuyutmekıcın" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04.karakterbuyutmekıcın" />
+    <configuration name="YildizUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.YildizUcgen" />
       <module name="T162Practice" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayiTahminOyunu" />
         <item itemvalue="Application.BaklavaDilimiYatayYazdir" />
         <item itemvalue="Application.BaklavaDilimiYazdir" />
         <item itemvalue="Application.YildizUcgen" />
         <item itemvalue="Application.karakterbuyutmekicin" />
-        <item itemvalue="Application.karakterbuyutmekıcın" />
       </list>
     </recent_temporary>
   </component>
