@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2e8240d-8304-4b78-8a6e-d6fde4048bc2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T162Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/BaklavaDilimiYatayYazdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/BaklavaDilimiYazdir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/DoWhileSayiTahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/EmojiOrnegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/P02_stringManupulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/P04_stringManupulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/SayiTahminOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/UcgenYazdirma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/YildizUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/gmailKontrol.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wrs8Y7xLebJbutPtegZ7xiQJPt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BaklavaDilimiYatayYazdir.executor": "Run",
+    "Application.BaklavaDilimiYazdir.executor": "Run",
+    "Application.DoWhileSayiTahminOyunu.executor": "Run",
+    "Application.P04_stringManupulation.executor": "Run",
+    "Application.SayiTahminOyunu.executor": "Run",
+    "Application.UcgenYazdirma.executor": "Run",
+    "Application.YildizUcgen.executor": "Run",
+    "Application.gmailKontrol.executor": "Run",
+    "Application.karakterbuyutmekicin.executor": "Run",
+    "Application.karakterbuyutmekıcın.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BaklavaDilimiYatayYazdir">
+    <configuration name="BaklavaDilimiYatayYazdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.BaklavaDilimiYatayYazdir" />
+      <module name="T162Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaklavaDilimiYazdir" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.BaklavaDilimiYazdir" />
+      <module name="T162Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YildizUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.YildizUcgen" />
+      <module name="T162Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karakterbuyutmekıcın" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.karakterbuyutmekıcın" />
+      <module name="T162Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karakterbuyutmekicin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.karakterbuyutmekicin" />
+      <module name="T162Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BaklavaDilimiYatayYazdir" />
+        <item itemvalue="Application.BaklavaDilimiYazdir" />
+        <item itemvalue="Application.YildizUcgen" />
+        <item itemvalue="Application.karakterbuyutmekicin" />
+        <item itemvalue="Application.karakterbuyutmekıcın" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2e8240d-8304-4b78-8a6e-d6fde4048bc2" name="Changes" comment="" />
+      <created>1746810867960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746810867960</updated>
+    </task>
+    <servers />
+  </component>
+</project>
